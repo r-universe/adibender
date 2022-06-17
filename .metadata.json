@@ -1,0 +1,10 @@
+[
+  {
+    "package": "coalitions",
+    "oncran": true
+  },
+  {
+    "package": "pammtools",
+    "oncran": true
+  }
+]
