@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "pammtools"]
-	path = pammtools
-	url = https://github.com/adibender/pammtools
-	shallow = true
-	registered = true
 [submodule "coalitions"]
 	path = coalitions
 	url = https://github.com/adibender/coalitions
+	shallow = true
+	registered = true
+[submodule "pammtools"]
+	path = pammtools
+	url = https://github.com/adibender/pammtools
 	shallow = true
 	registered = true
